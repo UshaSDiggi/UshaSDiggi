@@ -1,1 +1,2 @@
 ice cream: Mango
+friut : mango
